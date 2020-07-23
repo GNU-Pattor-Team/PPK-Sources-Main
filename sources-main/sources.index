@@ -1,0 +1,16 @@
+# dummy-package-single
+# Dummy Package Name
+# Dummy Description
+# 0.0.0
+# null, nulll, null
+# https://dummy.com/dummy.deb
+
+# dummy-package-split
+# Dummy Package Name
+# Dummy Description
+# 0.0.0
+# null, null, null
+# [1] https://dummy.com/dummy.7z.001
+# [2] https://dummy.com/dummy.7z.002
+# [3] https://dummy.com/dummy.7z.003
+
